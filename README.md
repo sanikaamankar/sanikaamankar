@@ -14,13 +14,13 @@
 <!-- CUSTOM HEADER — generate yours free at: https://leviarista.github.io/github-profile-header-generator/ -->
 <!-- Replace the image below with your own custom header image saved in your repo -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:0288d1&height=200&section=header&text=Vedant%20Nachankar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Streamlit%20Dev&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:0288d1&height=200&section=header&text=Sanika%20Mankar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20EE%20Engineer%20%7C%20Streamlit%20Dev&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- SECOND TYPING — ROLES -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;ML+Engineer;Python+Developer;Streamlit+App+Builder;SQL+%7C+Excel+Expert&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45)](https://github.com/vedantnachankar856-sketch)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;ML+Engineer;Python+Developer;Streamlit+App+Builder;SQL+%7C+Excel+Expert&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45)](https://github.com/sanikaamankar)
 
 </div>
 
@@ -35,14 +35,14 @@
 - 🤖 Building **ML models** — Sales, Stock, Housing & Insurance predictions
 - 🚀 Developing interactive **Streamlit apps** for real-world data problems
 - 🎓 **B.Tech** student from **Sant Gadge Baba Amravati University, India 🇮🇳**
-- 💼 Reach me at: **[LinkedIn](https://www.linkedin.com/in/vedant-nachankar-6396783b1)**
+- 💼 Reach me at: **[LinkedIn](www.linkedin.com/in/sanika-mankar-7ba6933b8)**
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-nachankar-6396783b1)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantnachankar856-sketch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanika-mankar-7ba6933b8)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanikaamankar)
 
 
 ---
@@ -85,15 +85,15 @@
 
 ## GitHub Stats
 
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantnachankar856-sketch&show_icons=true&theme=radical)
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanikaamankar&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantnachankar856-sketch&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikaamankar&theme=github_dark)
 
 ---
 
 ## Snake Animation
 
-[![Snake Animation](https://github.com/vedantnachankar856-sketch/vedantnachankar856-sketch/raw/output/github-contribution-grid-snake.svg)](https://github.com/vedantnachankar856-sketch/vedantnachankar856-sketch/blob/output/github-contribution-grid-snake.svg)
+[![Snake Animation](https://github.com/sanikaamankar/sanikaamankar/raw/output/github-contribution-grid-snake.svg)](https://github.com/sanikaamankar/sanikaamankar/blob/output/github-contribution-grid-snake.svg)
 
 <!-- BOTTOM DIVIDER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
