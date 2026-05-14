@@ -85,7 +85,7 @@
 
 ## GitHub Stats
 
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanikaamankar&show_icons=true&theme=radical)
+![Sanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanikaamankar&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikaamankar&theme=github_dark)
 
