@@ -11,10 +11,9 @@
 <!-- ANIMATED DIVIDER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- CUSTOM HEADER — generate yours free at: https://leviarista.github.io/github-profile-header-generator/ -->
-<!-- Replace the image below with your own custom header image saved in your repo -->
+<!-- CUSTOM HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:0288d1&height=200&section=header&text=Sanika%20Mankar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20EE%20Engineer%20%7C%20Streamlit%20Dev&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:0288d1&height=200&section=header&text=Sanika%20Mankar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Streamlit%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- SECOND TYPING — ROLES -->
@@ -27,73 +26,106 @@
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
----
+# 👋 Hi, I'm Sanika Mankar
 
 ## About Me
 
-- 📊 Passionate **Data Analyst** turning raw numbers into powerful stories
-- 🤖 Building **ML models** — Sales, Stock, Housing & Insurance predictions
-- 🚀 Developing interactive **Streamlit apps** for real-world data problems
-- 🎓 **B.Tech** student from **Sant Gadge Baba Amravati University, India 🇮🇳**
-- 💼 Reach me at: **[LinkedIn](www.linkedin.com/in/sanika-mankar-7ba6933b8)**
+- 📊 Passionate **Data Analyst** turning raw data into meaningful insights
+- 🤖 Building **Machine Learning models** for real-world problems
+- 🚀 Developing interactive **Streamlit applications**
+- 🎓 **B.Tech Student** from **Sant Gadge Baba Amravati University, India 🇮🇳**
+- 💼 Reach me on **[LinkedIn](https://www.linkedin.com/in/sanika-mankar-7ba6933b8)**
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanika-mankar-7ba6933b8)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanikaamankar)
+<p align="center">
 
+<a href="https://www.linkedin.com/in/sanika-mankar-7ba6933b8" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sanikaamankar" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🖥️ Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Languages & Libraries
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### Machine Learning
 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
+### Tools & Platforms
 
-
----
-
-# My Skills Set:
-
-|  |  |  |
-| --- | --- | --- |
-| **Data Analysis** <br/><br/> [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]() [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)]() [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)]() [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)]() | **Machine Learning** <br/><br/> [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org/) [![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4CAF50?style=flat-square)]() [![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)]() [![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=flat-square)]() [![Time Series](https://img.shields.io/badge/Time%20Series-9C27B0?style=flat-square)]() | **Tools & Apps** <br/><br/> [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)  [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com/) |
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<!-- DIVIDER GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+## 🚀 Featured Projects
 
-### Random Dev Quote
+🔹 **Diabetes Prediction App**  
+A Machine Learning-based diabetes prediction system built with **Streamlit**.
+
+- 🔗 Live App: https://share.streamlit.io/app/diabetespredictionsanika/  
+- 🔗 GitHub Repo: https://github.com/sanikaamankar/Diabetes_Prediction
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanikaamankar&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanikaamankar&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikaamankar&theme=github_dark"/>
+
+</p>
+
+---
+
+## ✨ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-## GitHub Stats
+## 🐍 Contribution Snake
 
-![Sanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanikaamankar&show_icons=true&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikaamankar&theme=github_dark)
+![Snake animation](https://github.com/sanikaamankar/sanikaamankar/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-## Snake Animation
+<div align="center">
 
-[![Snake Animation](https://github.com/sanikaamankar/sanikaamankar/raw/output/github-contribution-grid-snake.svg)](https://github.com/sanikaamankar/sanikaamankar/blob/output/github-contribution-grid-snake.svg)
+### ⭐ Thanks for visiting my profile!
+
+💙 Don't forget to follow and connect with me.
+
+</div>
 
 <!-- BOTTOM DIVIDER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
